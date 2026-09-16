@@ -26,12 +26,21 @@
 
 ###
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/3a/d6/71/3ad671d93f2790719099c59cc6837077.gif"  />
-</div>
+<img data-importer="image" align="right" height="150" src="https://i.pinimg.com/originals/65/c6/5c/65c65c7bd1a6338895367d64463b2299.gif"  />
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/jaindrex/jaindrex/snake-output/snake.svg" alt="Snake animation" />
+<p data-importer="text" align="left">20 year old system engineer,systems wilder<br><br>user linux and windown DXX<br><br>lenguajes : python,SQL,javascript,and in the future I will learn more ⎚-⎚<br><br>Discord bot developer:Node.js and discord.js ッ</p>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://Discord.com/users/876627740680417301" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://open.spotify.com/user/31ikyynvxonml3doded53b5sucge?si=8bd47b3601db4d00" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
+  </a>
+</div>
 
 ###

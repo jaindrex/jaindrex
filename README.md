@@ -4,6 +4,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://count.getloli.com/get/@jaindrex?theme=moebooru" alt="visitor counter"/>
+</div>
+
+<br/>
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="40" />

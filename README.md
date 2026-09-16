@@ -11,9 +11,9 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="67" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="67" alt="javascript logo"  />
   <img width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="67" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="67" alt="vscode logo"  />
   <img width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="67" alt="python logo"  />
   <img width="80" />
@@ -23,5 +23,15 @@
   <img width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="67" alt="linux logo"  />
 </div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://i.pinimg.com/originals/3a/d6/71/3ad671d93f2790719099c59cc6837077.gif"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/jaindrex/jaindrex/snake-output/snake.svg" alt="Snake animation" />
 
 ###
